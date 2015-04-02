@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">World Geography</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">World Geography</string>
+    <string name="btnNormal">Normal Mode</string>
+    <string name="btnQuiz">Quiz Mode</string>
+    <string name="credit">Credits</string>
+    <string name="description">Earth</string>
+    <string name="question">What is the name of this country?</string>
+    <string name="btnBack">Go Back</string>
+    <string name="endMessage"></string>
+    <string name="score"/>
+    <string name="factDes">Facts</string>
+    <string name="flagDes">Flag</string>
+    <string name="mapDes">Map</string>
+    <string name="btnMenu">Back to Menu</string>
+    <string name="btnEnd">End</string>
+    <string name="btnSkip">Skip</string>
+    <string name="splash">Splashscreen</string>
+
+</resources>
